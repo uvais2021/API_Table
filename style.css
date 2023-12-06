@@ -3,13 +3,13 @@
 }
 .container{
     width: auto;
-    text-align:center;
+   
    
 }
 .table-dark{
     background-color: rgb(66, 94, 108) !important;
     width: 350px !important;
-    text-align: center !important;
+  
     /* display: flex;
     align-items: center;
     flex-direction: column;
